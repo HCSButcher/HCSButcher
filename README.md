@@ -21,12 +21,12 @@
 
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **Google, Microsoft and great Tech Companies**
-- 👨‍💻 All of my projects are available at [https://portfolio-ocui.onrender.com](https://portfolio-ocui.onrender.com)
+- 👨‍💻 All of my projects are available at [https://portfolio-8j13.onrender.com](https://portfolio-8j13.onrender.com)
 - 💬 Ask me about **React, Next.js, React Native, Node.js, Express, MongoDB**
 - 📫 How to reach me:  
   **Tel:** 0748092687  
   **Email:** trevor254oduol@gmail.com
-- 📄 Know about my experiences [here](https://portfolio-ocui.onrender.com)
+- 📄 Know about my experiences [here](https://portfolio-8j13.onrender.com)
 - ⚡ Fun fact: **I am a self-taught programmer**
 
 ---
