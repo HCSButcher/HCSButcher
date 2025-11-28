@@ -19,7 +19,7 @@
 
 ---
 
-- 🌱 I’m currently teaching myself **Next.js**, **Python** ,**MySQL**
+- 🌱 I’m currently volungtering as a backend developer in building a cyber security LMS. 
 - 👯 I’m looking to collaborate on **Google, Microsoft and great Tech Companies**
 - 👨‍💻 All of my projects are available at [https://portfolio-8j13.onrender.com](https://portfolio-8j13.onrender.com)
 - 💬 Ask me about **React, Next.js, React Native, Node.js, Express, MongoDB**
