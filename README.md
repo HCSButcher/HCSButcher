@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor Oduol</h1>
-<h3 align="center">A passionate full stack website, mobile and web app developer (MERN Stack) </h3>
+<h3 align="center">I'm a full stack MERN STACK developer (with expertise in Nestjs and Nextjs) </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hcsbutcher&label=Profile%20views&color=0e75b6&style=flat" alt="hcsbutcher" />
