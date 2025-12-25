@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently volunteering as a backend developer in building a cyber security LMS. 
 - 👯 I’m looking to collaborate on **Google, Microsoft and great Tech Companies**
-- 👨‍💻 All of my projects are available at [https://portfolio-8j13.onrender.com](https://portfolio-8j13.onrender.com)
+- 👨‍💻 All of my projects are available at [https://my-portfolio-chi-two-94.vercel.app](https://my-portfolio-chi-two-94.vercel.app)
 - 💬 Ask me about **React, Next.js, React Native, Node.js, Express, MongoDB**
 - 📫 How to reach me:  
   **Tel:** 0748092687  
